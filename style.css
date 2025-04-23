@@ -8,11 +8,12 @@ h1{
     margin-top: 2rem;
     color:white;
     background-color: black;
-    height: 5rem;
-    line-height: 5rem;
+    height: auto;
+    line-height: normal;
     padding: 2rem;
     font-size: 4rem;
     gap: 2rem;
+    word-wrap:break-word
 }
 .choices{
     display: flex;
